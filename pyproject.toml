@@ -1,0 +1,4 @@
+[project]
+name = "raylib-3d-model-loader"
+version = "0.1"
+dependencies = ["raylib"]
